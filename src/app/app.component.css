@@ -1,0 +1,15 @@
+.tyc-container{padding:30px 0;background: #eeeeee;}
+.bodyq{min-width:1200px; width:expression((document.documentElement.clientWidth||document.body.clientWidth)<1200?'1200px':'100%');}
+.clear{clear: both;}
+.tyc-main{width:auto;margin:0 30px 0 150px;}
+.tyc-main-min{width:auto;margin:0 30px 0 85px;}
+
+.tyc-main-content {
+    padding: 12px 25px 0px 20px;
+    width: auto;
+    border-radius: 5px;
+    background: #ffffff;
+    min-height:800px;
+}
+/*右侧内容区第一部分*/
+.tyc-main-header{height:50px;padding-top:10px;box-sizing:border-box;-webkit-box-sizing:border-box;border-radius:5px;background:#ffffff;box-shadow:0 0 8px 1px #c0c0c0;margin-bottom:30px;}

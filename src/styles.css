@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+/* CSS Document */
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,input,textarea,p,table,tr,th,td,span,strong,em{padding:0;margin:0;font-style:normal;}
+body{font-size:12px;font-family:"Microsoft YaHei","Arial","lucida Grande","Verdana";color:#666666;min-width:1200px;background-color: #eee;}
+img{border:0;vertical-align:middle;max-width:100%;}
+ol,ul,li{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;font-size:100%;}
+a{text-decoration:none;outline:none;}
+a:link,a:visited{text-decoration:none;}
+a:hover{text-decoration:underline;}
+a:active{text-decoration:none;}
